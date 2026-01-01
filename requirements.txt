@@ -1,0 +1,8 @@
+# AI-Native Todo Console Application
+# Standard library only - no external dependencies required
+# Python 3.11+ provides all needed functionality:
+# - json: Task data serialization
+# - argparse: CLI argument parsing
+# - datetime: Timestamp and date handling
+# - pathlib: File path operations
+# - threading: Reminder polling background thread
