@@ -1,0 +1,29 @@
+# FastAPI Backend Dependencies - Phase 2 Full-Stack
+
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Database & ORM
+sqlmodel==0.0.14
+alembic==1.13.1
+psycopg[binary]==3.1.18
+
+# Validation & Configuration
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# CORS & Security
+python-multipart==0.0.6
+
+# Testing (dev dependencies)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.26.0
+
+# Code Quality (dev dependencies)
+black==23.12.1
+ruff==0.1.11
+mypy==1.8.0
