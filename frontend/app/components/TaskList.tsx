@@ -51,7 +51,7 @@ export function TaskList({ tasks, onToggleComplete, onEdit, onDelete, loading = 
       <div className="text-center py-12">
         <p className="text-gray-500 text-lg">No tasks yet</p>
         <p className="text-gray-400 text-sm mt-2">
-          Click "Add Task" to create your first task
+          Click &ldquo;Add Task&rdquo; to create your first task
         </p>
       </div>
     );
