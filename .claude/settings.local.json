@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(todo add:*)"
+      "Bash(todo add:*)",
+      "Bash(ls:*)"
     ]
   }
 }
